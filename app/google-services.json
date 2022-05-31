@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603679566600",
+    "project_id": "getiryemek-49m",
+    "storage_bucket": "getiryemek-49m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603679566600:android:f0a729c5dad243a0731abd",
+        "android_client_info": {
+          "package_name": "com.example.getiryemek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603679566600-i5o0uq76oieb4rlj1mr13kpvgjcm9fa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Iw_X8D2lxxMvjc1WGrfV6WwbFGXxF3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603679566600-i5o0uq76oieb4rlj1mr13kpvgjcm9fa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
